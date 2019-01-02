@@ -1,6 +1,10 @@
 public class Test {
 
     public static void main(String args[]){
+
+
+
+        
         int arr[] = {26,15,13,66,99,88,36,77,111,1,6,8,8};
         for(int i=0;i < arr.length-1;i++) {//外层循环控制排序趟数
             for(int j=0; j< arr.length-i-1;j++) {
