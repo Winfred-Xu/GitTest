@@ -1,5 +1,6 @@
 public class Test {
 
+
     public static void main(String args[]){
 
 
@@ -33,5 +34,6 @@ public class Test {
         for(int a = 0; a < arr.length;a++) {
             System.out.println(arr[a] + "\t");
         }
+
     }
 }
